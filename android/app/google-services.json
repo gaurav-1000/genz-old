@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "276426889546",
+    "project_id": "genz-eac09",
+    "storage_bucket": "genz-eac09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276426889546:android:aa90c64fc26ec1690bc9b3",
+        "android_client_info": {
+          "package_name": "me.generationzab.genz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276426889546-quitg1qs10se67f24vonc2f97mldjsef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt38gaebPp92fc4aLnz_GCzy8jruYuUEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276426889546-quitg1qs10se67f24vonc2f97mldjsef.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "276426889546-6h2rnopmn0cq2rai5q21robgsmqnsaro.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.norditech.genz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
